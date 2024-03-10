@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="tumbnail flutuar" src="/assets/capa.png" width="100%">
+  <img alt="tumbnail formulário" src="/assets/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
